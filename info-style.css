@@ -1,0 +1,10 @@
+#info-background {
+	background-image: url("info-vampire.jpg");
+	size: a2;
+	height: 670px;
+}
+
+#info-text {
+	color: grey;
+	font-family: 'Playfair Display', serif;
+}

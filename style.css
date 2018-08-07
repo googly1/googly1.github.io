@@ -1,12 +1,5 @@
-#intro {
-	text-align: center; 
-	color: grey; 
-	border: 2px solid;
-	border-color: pink;
-}
-
-body {
-	text-align: center;
-	background-image: url("background.jpeg");
-	background-size: cover;
+#Background {
+	background-image: url("vampire.jpg");
+	size: a3;
+	height: 690px;
 }
